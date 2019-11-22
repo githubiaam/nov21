@@ -1,0 +1,12 @@
+{
+  "id" : "111",
+  "name" : "TV",
+  "price" : "250.00",
+  "color" : ["red","green","blue"]
+  "manufacture":{
+    "name" : "samsung",
+    "city" : "chicago",
+    "website" : "www.samsung.com"
+  }
+  
+} 
